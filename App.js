@@ -3,7 +3,7 @@ import './App.css';
 import { Component, Fragment } from 'react';
 import {Card} from './components/card';
 import { Modal } from './components/modal';
-import {Filter} from './components/filter';
+
 
 class App extends Component {
   constructor(){
